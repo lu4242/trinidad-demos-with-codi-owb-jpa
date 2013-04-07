@@ -1,0 +1,16 @@
+<projectDescription>
+  <name>trinidad-blank</name>
+  <comment>Apache MyFaces Trinidad Blank Demo</comment>
+  <projects>
+    <project>trinidad-api</project>
+    <project>trinidad-impl</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

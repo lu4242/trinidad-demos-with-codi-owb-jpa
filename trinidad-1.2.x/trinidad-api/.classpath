@@ -1,0 +1,44 @@
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="target/maven-xrts-plugin/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="target/maven-faces-plugin/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="target/maven-i18n-plugin/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="META-INF/NOTICE|META-INF/LICENSE|**/*.java"/>
+  <classpathentry kind="src" path="target/maven-shared-archive-resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar" sourcepath="M2_REPO/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/portlet/portlet-api/2.0/portlet-api-2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" sourcepath="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar" sourcepath="M2_REPO/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/lu4242/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/jmock/jmock/1.2.0/jmock-1.2.0.jar" sourcepath="M2_REPO/jmock/jmock/1.2.0/jmock-1.2.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/lu4242/.m2/repository/jmock/jmock/1.2.0/jmock-1.2.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/jmock/jmock-cglib/1.2.0/jmock-cglib-1.2.0.jar" sourcepath="M2_REPO/jmock/jmock-cglib/1.2.0/jmock-cglib-1.2.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/lu4242/.m2/repository/jmock/jmock-cglib/1.2.0/jmock-cglib-1.2.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.4/junit-4.4.jar" sourcepath="M2_REPO/junit/junit/4.4/junit-4.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/lu4242/.m2/repository/junit/junit/4.4/junit-4.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/myfaces/core/myfaces-api/1.2.4/myfaces-api-1.2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/myfaces/portlet-bridge/portlet-bridge-api/1.0.0-beta/portlet-bridge-api-1.0.0-beta.jar" sourcepath="M2_REPO/org/apache/myfaces/portlet-bridge/portlet-bridge-api/1.0.0-beta/portlet-bridge-api-1.0.0-beta-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/lu4242/.m2/repository/org/apache/myfaces/portlet-bridge/portlet-bridge-api/1.0.0-beta/portlet-bridge-api-1.0.0-beta-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/shale/shale-test/1.0.5/shale-test-1.0.5.jar"/>
+  <classpathentry kind="src" path="/trinidad-build"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+</classpath>
